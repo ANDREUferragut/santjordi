@@ -1,0 +1,65 @@
+.grid{
+    width: 560px;
+    height: 560px;
+    border: solid black;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.grid div{
+    width: 20px;
+    height: 20px; 
+}
+
+.red{
+    background-image: url(../IMG/Rosa-removebg-preview.png);
+    background-size: cover;
+}
+
+.white{
+    background-color: white;
+}
+
+.pink{
+    background-image: url(../IMG/301a46d22f356d80daf454d31927cf76-removebg-preview.png);
+    background-size: cover;
+}
+
+.green{
+    background-image: url(../IMG/mur.webp);
+    background-size: cover;
+}
+
+.blue{
+    background-image: url(../IMG/cova.png);
+    background-size: cover;
+}
+
+.princep{
+    background-image: url(../IMG/cavaller-removebg-preview.png);
+    background-size: cover;
+}
+
+.drac1{
+ background-image: url(../IMG/5-removebg-preview.png);
+ background-size: cover;
+}
+
+.drac2{
+    background-image: url(../IMG/6-removebg-preview.png);
+    background-size: cover;
+}
+
+.drac3{
+    background-image: url(../IMG/7-removebg-preview.png);
+    background-size: cover;
+}
+
+.drac4{
+    background-image:url(../IMG/8-removebg-preview.png);
+    background-size: cover;
+}
+
+.drac-asustat{
+    background-image: url(../IMG/stock-vector-cartoon-scared-blue-dragon-vector-clip-art-illustration-with-simple-gradients-all-in-a-single-129266900-removebg-preview.png);
+}
