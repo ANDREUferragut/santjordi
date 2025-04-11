@@ -1,14 +1,28 @@
-.grid{
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 940px;
+    margin: 0;
+    flex-direction: column;
+    background-image: url(../Fondo\ chat\ bueno.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.grid div{
+    width: 20px;
+    height: 20px;
+    flex-wrap: wrap;
+    background-color: white;
+}
+
+.grid {
     width: 560px;
     height: 560px;
     border: solid black;
     display: flex;
     flex-wrap: wrap;
-}
-
-.grid div{
-    width: 20px;
-    height: 20px; 
 }
 
 .red{
